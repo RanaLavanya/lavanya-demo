@@ -1,4 +1,4 @@
 # lavanya-demo
-hi i am Lavanya 
+hi i am Lavnya (lavaa) 
 <br>
 this is my first repository!
